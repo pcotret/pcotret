@@ -2,7 +2,7 @@
   <a href="https://twitter.com/Pa0x73cal">
     <img src="https://img.shields.io/twitter/follow/Pa0x73cal?style=for-the-badge&label=%40Pa0x73cal&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
-  <a href="[[https://www.linkedin.com/in/simonemargaritelli/](https://www.linkedin.com/in/pascalcotret/)](https://www.linkedin.com/in/pascalcotret/)">
+  <a href="https://www.linkedin.com/in/pascalcotret/">
     <img src="https://img.shields.io/badge/-pascal%20cotret-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="mailto:pascal.cotret@gmail.com">
