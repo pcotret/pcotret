@@ -10,8 +10,8 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on :rocket: (Rocket) RISC-V core and low-level security :muscle: :eyes:
-- 🌱 I’m currently learning Chisel and the :rocket: micro-architecture 😄
+- 🔭 I’m currently working on :rocket: (Rocket) and CVA6 RISC-V cores and low-level security :muscle: :eyes:
+- 🌱 I’m currently learning Chisel and some micro-architectures 😄
 
 
 <!--
