@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 I’m currently working on :rocket: (Rocket) and CVA6 RISC-V cores and low-level security :muscle: :eyes:
-- 🌱 I’m currently learning Chisel and some micro-architectures 😄
+- 🌱 I’m currently some micro-architecture problems 😄
 
 
 <!--
@@ -19,12 +19,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on :rocket: RISC-V core
-- 🌱 I’m currently learning Chisel
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on CVA6 micro-architecture core
+- 🌱 I’m currently learning on the CVA6, trace mechanisms in embedded processors and VMs (JIT and so on)
+- 👯 I’m looking to collaborate on low-level security (software/hardware)
+- 📫 How to reach me: Twitter, Linkedin for a first contact
 -->
