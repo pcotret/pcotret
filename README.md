@@ -11,8 +11,9 @@
 </p>
 
 - 🔭 I’m currently working on :rocket: (Rocket) and CVA6 RISC-V cores and low-level security :muscle: :eyes:
-- 🌱 I’m currently some micro-architecture problems 😄
-
+- 🌱 I’m currently some micro-architecture problems, trace mechanisms in embedded processors and VMs (JIT and so on)
+- 👯 I’m looking to collaborate on low-level security (software/hardware)
+- 📫 How to reach me: Twitter, Linkedin for a first contact
 
 <!--
 **pcotret/pcotret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
